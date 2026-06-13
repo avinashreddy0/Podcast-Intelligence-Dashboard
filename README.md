@@ -2,7 +2,7 @@
 
 > **Real-time analytics** for podcast performance — views, engagement, guests, content themes, and upload timing.
 
-![Raj Shamani Podcast Overview Dashboard](docs/images/overview-dashboard.png)
+![Raj Shamani Podcast Analytics Dashboard — Insights · Performance · Growth](docs/images/thumbnail.png)
 
 ---
 
